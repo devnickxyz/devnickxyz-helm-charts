@@ -1,2 +1,2 @@
 # dmevnickxyz-helm-charts
-Devnickxyz's Hełm charts
+Devnickxyz's Helm charts
